@@ -1,6 +1,6 @@
 {
   "name": "next-algolia-client",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "license": "MIT",
   "repository": "git@github.com:enBonnet/next-algolia-client.git",
   "author": "Ender Bonnet <@enBonnet>",
